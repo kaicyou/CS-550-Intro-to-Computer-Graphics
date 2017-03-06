@@ -1,0 +1,21 @@
+﻿  sample.cpp
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #4\sample.cpp(274): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #4\sample.cpp(275): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #4\sample.cpp(276): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #4\sample.cpp(279): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #4\sample.cpp(280): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #4\sample.cpp(281): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #4\sample.cpp(289): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #4\sample.cpp(290): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #4\sample.cpp(611): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #4\sample.cpp(627): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #4\sample.cpp(631): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #4\sample.cpp(650): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #4\sample.cpp(651): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #4\sample.cpp(660): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #4\sample.cpp(669): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #4\sample.cpp(677): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #4\sample.cpp(1382): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  Sample.vcxproj -> E:\Documents\OSU\Graduate\term3-Fall-2015 profiles\CS 550\Project #4\.\Debug\Sample.exe
+  Sample.vcxproj -> .\Debug/Sample.pdb (Full PDB)
