@@ -1,0 +1,83 @@
+﻿  sample.cpp
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(221): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(710): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(715): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(722): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(728): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(731): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(731): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(737): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(740): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(740): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(746): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(749): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(749): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(758): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(764): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(767): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(767): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(773): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(776): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(776): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(782): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(785): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(785): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(793): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(794): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(795): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(795): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(796): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(796): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(804): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(805): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(806): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(806): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(807): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(807): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(815): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(815): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(816): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(816): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(817): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(817): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(818): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(818): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(826): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(826): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(827): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(827): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(828): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(828): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(829): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(829): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(837): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(837): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(838): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(838): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(839): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(839): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(840): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(840): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(848): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(848): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(849): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(849): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(850): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(850): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(851): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(851): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(859): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(859): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(860): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(860): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(861): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(861): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(862): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(862): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(714): warning C4101: 'z': unreferenced local variable
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(714): warning C4101: 'y': unreferenced local variable
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(714): warning C4101: 'x': unreferenced local variable
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #1\sample.cpp(1210): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  Sample.vcxproj -> E:\Documents\OSU\Graduate\term3-Fall-2015 profiles\CS 550\Project #1\.\Debug\Sample.exe
+  Sample.vcxproj -> .\Debug/Sample.pdb (Full PDB)
