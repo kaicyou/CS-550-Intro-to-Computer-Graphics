@@ -1,0 +1,36 @@
+﻿Build started 6/8/2016 Wednesday 12:49:35 PM.
+     1>Project "E:\Documents\OSU\Graduate\term3-Fall-2015 profiles\CS 550\Project #5\Sample.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm- /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug/" /Fd".\Debug/vc120.pdb" /Gd /TP /analyze- /errorReport:prompt glslprogram.cpp sample.cpp
+         glslprogram.cpp
+     1>e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #5\glslprogram.cpp(247): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #5\glslprogram.cpp(299): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #5\glslprogram.cpp(768): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #5\glslprogram.cpp(783): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+         sample.cpp
+     1>e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #5\sample.cpp(405): warning C4305: '=' : truncation from 'double' to 'float'
+     1>e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #5\sample.cpp(406): warning C4305: '=' : truncation from 'double' to 'float'
+     1>e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #5\sample.cpp(407): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #5\sample.cpp(408): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #5\sample.cpp(411): warning C4305: '=' : truncation from 'double' to 'float'
+     1>e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #5\sample.cpp(413): warning C4305: '=' : truncation from 'double' to 'float'
+     1>e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #5\sample.cpp(415): warning C4305: '=' : truncation from 'double' to 'float'
+     1>e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #5\sample.cpp(416): warning C4305: '=' : truncation from 'double' to 'float'
+     1>e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #5\sample.cpp(399): warning C4101: 'V0' : unreferenced local variable
+     1>e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #5\sample.cpp(399): warning C4101: 'V2' : unreferenced local variable
+     1>e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #5\sample.cpp(399): warning C4101: 'V1' : unreferenced local variable
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug/Sample.exe" /INCREMENTAL:NO /NOLOGO glew32.lib freeglut.lib glu32.lib opengl32.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\Debug/Sample.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:".\Debug\Sample.lib" /MACHINE:X86 /SAFESEH .\Debug/glslprogram.obj
+         .\Debug/sample.obj
+     1>glslprogram.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+         Sample.vcxproj -> E:\Documents\OSU\Graduate\term3-Fall-2015 profiles\CS 550\Project #5\.\Debug\Sample.exe
+     1>Done Building Project "E:\Documents\OSU\Graduate\term3-Fall-2015 profiles\CS 550\Project #5\Sample.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:12.15

@@ -1,0 +1,7 @@
+
+0(33) : error C1008: undefined variable "uSize"
+0(33) : error C1008: undefined variable "uSize"
+0(33) : error C1008: undefined variable "uSize"
+0(33) : error C1008: undefined variable "uSize"
+0(35) : error C1008: undefined variable "myColor"
+
