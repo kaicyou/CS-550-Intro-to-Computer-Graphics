@@ -1,0 +1,43 @@
+﻿  sample.cpp
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(242): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(248): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(249): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(259): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(264): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(266): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(276): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(281): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(282): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(292): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(300): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(482): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(487): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(488): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(489): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(490): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(495): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(496): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(497): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(498): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(503): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(504): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(505): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(506): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(889): warning C4305: '=': truncation from 'double' to 'float'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(900): warning C4305: '=': truncation from 'double' to 'float'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(912): warning C4305: '=': truncation from 'double' to 'float'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(914): warning C4305: '=': truncation from 'double' to 'float'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(916): warning C4305: '=': truncation from 'double' to 'float'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(918): warning C4305: '=': truncation from 'double' to 'float'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(925): warning C4305: '=': truncation from 'double' to 'float'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(927): warning C4305: '=': truncation from 'double' to 'float'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(936): warning C4305: '=': truncation from 'double' to 'float'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(938): warning C4305: '=': truncation from 'double' to 'float'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(947): warning C4305: '=': truncation from 'double' to 'float'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(949): warning C4305: '=': truncation from 'double' to 'float'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(958): warning C4305: '=': truncation from 'double' to 'float'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(960): warning C4305: '=': truncation from 'double' to 'float'
+e:\documents\osu\graduate\term3-fall-2015 profiles\cs 550\project #6\sample.cpp(1410): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  Sample.vcxproj -> E:\Documents\OSU\Graduate\term3-Fall-2015 profiles\CS 550\Project #6\.\Debug\Sample.exe
+  Sample.vcxproj -> .\Debug/Sample.pdb (Full PDB)
